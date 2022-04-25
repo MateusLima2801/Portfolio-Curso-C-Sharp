@@ -1,0 +1,15 @@
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\bin\Debug\net6.0\Projeto22.exe
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\bin\Debug\net6.0\Projeto22.deps.json
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\bin\Debug\net6.0\Projeto22.runtimeconfig.json
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\bin\Debug\net6.0\Projeto22.dll
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\bin\Debug\net6.0\Projeto22.pdb
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\obj\Debug\net6.0\Projeto22.csproj.AssemblyReference.cache
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\obj\Debug\net6.0\Projeto22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\obj\Debug\net6.0\Projeto22.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\obj\Debug\net6.0\Projeto22.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\obj\Debug\net6.0\Projeto22.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\obj\Debug\net6.0\Projeto22.dll
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\obj\Debug\net6.0\refint\Projeto22.dll
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\obj\Debug\net6.0\Projeto22.pdb
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\obj\Debug\net6.0\Projeto22.genruntimeconfig.cache
+C:\Users\Mateus\Desktop\CSHARP_\Projeto22\obj\Debug\net6.0\ref\Projeto22.dll
